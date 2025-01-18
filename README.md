@@ -1,2 +1,2 @@
 # Rag
-RAG to elevate their AI potential
+RAG to elevate AI potential
